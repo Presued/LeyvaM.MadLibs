@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.MadLibs/bin/Debug/net6.0/LeyvaM.MadLibs
+/Users/manuel/Documents/LeyvaM.MadLibs/bin/Debug/net6.0/LeyvaM.MadLibs.deps.json
+/Users/manuel/Documents/LeyvaM.MadLibs/bin/Debug/net6.0/LeyvaM.MadLibs.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.MadLibs/bin/Debug/net6.0/LeyvaM.MadLibs.dll
+/Users/manuel/Documents/LeyvaM.MadLibs/bin/Debug/net6.0/LeyvaM.MadLibs.pdb
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.dll
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/refint/LeyvaM.MadLibs.dll
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.pdb
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/LeyvaM.MadLibs.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.MadLibs/obj/Debug/net6.0/ref/LeyvaM.MadLibs.dll
